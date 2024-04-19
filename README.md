@@ -1,6 +1,6 @@
 > ## Victor Lima 
-> 🇧🇷 **25y**
+> **25y**
 >
-> 📗Library Science Student
+> 📗Library Sci
 >
 > 👨‍💻 Likes to program in C, Python and Ruby.
